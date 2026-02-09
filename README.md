@@ -4,6 +4,12 @@ A **Digital Twin** inspired predictive maintenance system that bridges Arduino-b
 
 ---
 
+## 🌐 Virtual Simulation
+To view the hardware logic and circuit assembly without physical components, access the interactive simulation here:
+* **TinkerCAD Circuit:** [<img src="https://img.shields.io/badge/TinkerCAD-View_Simulation-orange?style=for-the-badge&logo=autodesk">](https://www.tinkercad.com/things/3KMUdePBKmn-arima-iot)
+
+---
+
 ## 📁 Repository Structure
 
 * **`Arduino Codes/`**: Firmware for sensor data extraction and hardware diagnostics.
@@ -55,5 +61,6 @@ The model enforces the following safety boundaries to maintain system integrity:
 | **Software** | Python (Pandas, Scikit-learn), Jupyter Notebook, Joblib |
 
 ---
+
 
 **Focus:** IoT & Machine Learning Engineering
